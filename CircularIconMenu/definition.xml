@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ExtensionObject 
+		Type="object"
+		Label="Circular Icon Menu" 
+		Path="CircularIconMenu"
+		Description="Circular Icon Menu" >
+    <Text Label="Menu Icons" Type="text" Expression="" />
+    <Text Label="Object IDs" Type="text" Expression="" />
+    <Text Label="Variable Name" Type="text" Expression="" />
+	<Text Label="Open on Start" Type="checkbox" Expression="true" />
+</ExtensionObject>
