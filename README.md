@@ -18,4 +18,4 @@ Properties:
 
 Inspired by first implementation attempt here: https://github.com/hvus/Qlikview-Object-WCircleMenu
 
-Example icon use from: https://github.com/ralfbecher/QlikView_Extension_CircularIconMenu.git
+Example icon used from: https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free
