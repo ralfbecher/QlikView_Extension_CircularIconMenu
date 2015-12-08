@@ -17,3 +17,5 @@ Properties:
 4. Open on Start : check if icon menu should start in open mode (pop-out)
 
 Inspired by first implementation attempt here: https://github.com/hvus/Qlikview-Object-WCircleMenu
+
+Example icon use from: https://github.com/ralfbecher/QlikView_Extension_CircularIconMenu.git
