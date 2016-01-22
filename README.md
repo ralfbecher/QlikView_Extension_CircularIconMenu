@@ -15,6 +15,10 @@ Properties:
 2. Object IDs : Corresponding comma separated QlikView Object ID list to use in trigger (in this case Sheet IDs)
 3. Variable Name : QlikView variable (defined in document) to use to set the Object ID on icon click
 4. Open on Start : check if icon menu should start in open mode (pop-out)
+5. Icon Size: size of icon in pixel (default=60)
+6. Icon Distance: distance of pop-out icons from center icon in pixel (default=100)
+7. Icon Start Pos.: start position of first pop-out icon (default=-1.52; on top=-Pi/2; on right=0)
+8. Icon Interval: distance between circular pop-out icons (default=0.64)
 
 Inspired by first implementation attempt here: https://github.com/hvus/Qlikview-Object-WCircleMenu
 

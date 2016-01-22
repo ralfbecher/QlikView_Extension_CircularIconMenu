@@ -4,8 +4,13 @@
 		Label="Circular Icon Menu" 
 		Path="CircularIconMenu"
 		Description="Circular Icon Menu" >
-    <Text Label="Menu Icons" Type="text" Expression="" />
-    <Text Label="Object IDs" Type="text" Expression="" />
-    <Text Label="Variable Name" Type="text" Expression="" />
-	<Text Label="Open on Start" Type="checkbox" Expression="true" />
+    <Text Label="Menu Icons:" Type="text" />
+    <Text Label="Object IDs:" Type="text" />
+    <Text Label="Variable Name:" Type="text" />
+	<Text Label="Open on Start:" Type="checkbox" />
+	<Text Label="Icon Size:" Type="text" Expression="60" />
+	<Text Label="Icon Distance:" Type="text" Expression="100" />
+	<Text Label="Icon Start Pos.:" Type="text" Expression="-1.52" />
+	<Text Label="Icon Interval:" Type="text" Expression="0.64" />
+	<Initiate Name="Chart.Text.3.Content" Value="1" />
 </ExtensionObject>
